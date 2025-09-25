@@ -1,4 +1,4 @@
-## VR Airfield
+## VR Airfield Simulator
 
 role: UI
 
